@@ -1,16 +1,48 @@
-## Hi there 👋
+# Riomerdev — Software Developer Portfolio
 
-<!--
-**Riomerdev/Riomerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Riomer Contreras, estudiante de Análisis y Desarrollo de Sistemas. Desarrollo aplicaciones con **C#/.NET, Python y JavaScript**, enfocadas en automatización, APIs y herramientas para operaciones.
 
-Here are some ideas to get you started:
+## Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### C# / .NET
+
+- [LibraryManagement](https://github.com/Riomerdev/LibraryManagement/tree/main/LibraryManagement) — API de catálogo y préstamos multi-sede.
+- [OrderFlow](https://github.com/Riomerdev/LibraryManagement/tree/main/CSharpProjects/OrderFlow) — estados de pedidos, idempotencia y outbox local.
+- [LedgerCore](https://github.com/Riomerdev/LibraryManagement/tree/main/CSharpProjects/LedgerCore) — libro de doble partida y balance de comprobación.
+- [StockSignalR](https://github.com/Riomerdev/LibraryManagement/tree/main/CSharpProjects/StockSignalR) — reservas de inventario y actualizaciones SignalR.
+- [SecureFiles](https://github.com/Riomerdev/LibraryManagement/tree/main/CSharpProjects/SecureFiles) — carga de documentos con validación y huella SHA-256.
+- [BookingEngine](https://github.com/Riomerdev/LibraryManagement/tree/main/CSharpProjects/BookingEngine) — reservas UTC, retenciones y control de solapamientos.
+
+### Python
+
+- [CSV Sentinel](https://github.com/Riomerdev/python-projects/tree/main/projects/csv-sentinel) — validación de esquemas y cuarentena de filas.
+- [Webhook Gateway](https://github.com/Riomerdev/python-projects/tree/main/projects/webhook-gateway) — recepción firmada, deduplicación y persistencia.
+- [PolicySearch](https://github.com/Riomerdev/python-projects/tree/main/projects/policy-search) — búsqueda documental con referencias de origen.
+- [LogTriage](https://github.com/Riomerdev/python-projects/tree/main/projects/log-triage) — agrupación de incidentes desde logs estructurados.
+- [DataSync](https://github.com/Riomerdev/python-projects/tree/main/projects/data-sync) — sincronización incremental con checkpoints.
+- [SLA Monitor](https://github.com/Riomerdev/python-projects/tree/main/projects/sla-monitor) — comprobaciones asíncronas y métricas de disponibilidad.
+
+### JavaScript
+
+- [FieldAudit PWA](https://github.com/Riomerdev/javascript-projects/tree/main/projects/field-audit-pwa) — inspecciones móviles offline-first.
+- [Commerce Checkout](https://github.com/Riomerdev/javascript-projects/tree/main/projects/commerce-checkout) — carrito accesible y checkout simulado.
+- [Support Console](https://github.com/Riomerdev/javascript-projects/tree/main/projects/support-console) — consola de soporte con comunicación en tiempo real.
+- [Webhook Observatory](https://github.com/Riomerdev/javascript-projects/tree/main/projects/webhook-observatory) — inspección local y replay de webhooks.
+- [Shipment Tracking](https://github.com/Riomerdev/javascript-projects/tree/main/projects/shipment-tracking) — tablero de seguimiento de envíos.
+- [Subscription Portal](https://github.com/Riomerdev/javascript-projects/tree/main/projects/subscription-portal) — cambios de plan y cálculo de prorrateo.
+
+### Sistemas integradores
+
+- [OpsDesk](https://github.com/Riomerdev/fullstack-opsdesk/tree/main/OpsDesk) — panel JavaScript, API C# y cálculo SLA con Python.
+- [SupplyChain Control Tower](https://github.com/Riomerdev/fullstack-opsdesk/tree/main/SupplyChain) — despacho con API C#, interfaz JavaScript y score ETA en Python.
+
+## Tecnologías y prácticas
+
+ASP.NET Core Minimal APIs, manejo de datos, validación, control de concurrencia, procesamiento asíncrono, persistencia, seguridad básica, interfaces web, GitHub Actions y automatización con Python.
+
+Los repositorios incluyen instrucciones de ejecución, datos de demostración y documentación del alcance de cada proyecto. Los workflows de GitHub Actions compilan las soluciones .NET y verifican sintaxis de Python y JavaScript.
+
+## English
+
+Systems Analysis and Development student building practical applications with **C#/.NET, Python, and JavaScript**. My portfolio focuses on APIs, operational tooling, data workflows, and automation. Each project includes setup instructions and its own documented scope.
+
