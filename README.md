@@ -13,6 +13,7 @@ Hola, soy Riomer Contreras, estudiante de Análisis y Desarrollo de Sistemas. De
 - [SecureFiles](https://github.com/Riomerdev/LibraryManagement/tree/main/CSharpProjects/SecureFiles) — carga de documentos con validación y huella SHA-256.
 - [BookingEngine](https://github.com/Riomerdev/LibraryManagement/tree/main/CSharpProjects/BookingEngine) — reservas UTC, retenciones y control de solapamientos.
 - [Inventory Control API](https://github.com/Riomerdev/LibraryManagement/tree/main/CSharpProjects/InventoryControl) — inventario regional con PostgreSQL, idempotencia y concurrencia optimista.
+- [FeatureGate (en desarrollo)](https://github.com/Riomerdev/LibraryManagement/tree/main/CSharpProjects/FeatureGate) — servicio para activar funciones gradualmente por usuario o porcentaje.
 
 ### Python
 
